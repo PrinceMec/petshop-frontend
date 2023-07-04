@@ -11,6 +11,7 @@ import purina from '../images/purina.jpg'
 import royalCanin from '../images/royal-canin.jpg'
 import vibeful from '../images/vibeful.jpeg'
 
+
 const StyledCard = styled(Card)(({ theme }) => ({
   boxShadow: theme.shadows[3],
   borderRadius: theme.shape.borderRadius,
