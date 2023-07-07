@@ -1,5 +1,6 @@
 # Petshop-Ecommerce
 
+Live: https://petshop-y1u7.onrender.com/
 
 1. Spring Boot API: PetShop, an ecommerce website, leverages a Spring Boot API as its backend, ensuring a robust and efficient foundation for the platform.
 2. React Frontend: The frontend of PetShop is built using React, delivering a responsive and interactive user interface to enhance the user experience.
