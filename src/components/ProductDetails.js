@@ -44,7 +44,8 @@ const ProductDetails = () => {
         if (!userEmail) {
           // Navigate to the login page or any other page you desire
           //history.push('/login');
-          window.location.href = '/login';
+          //window.location.href = '/login';
+            alert("Login required");
         } else {
     
           
